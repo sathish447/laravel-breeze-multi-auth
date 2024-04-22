@@ -1,32 +1,10 @@
 <p align="center">
-<a href="https://github.com/rubensrocha/laravel-breeze-multi-auth-admin/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/rubensrocha/laravel-breeze-multi-auth-admin"></a>
-<a href="https://github.com/rubensrocha/laravel-breeze-multi-auth-admin/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rubensrocha/laravel-breeze-multi-auth-admin"></a>
-<a href="https://packagist.org/packages/rubensrocha/laravel-breeze-multi-auth-admin"><img src="https://img.shields.io/packagist/dt/rubensrocha/laravel-breeze-multi-auth-admin" alt="Total Downloads"></a>
-<a href="https://github.com/rubensrocha/laravel-breeze-multi-auth-admin/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/rubensrocha/laravel-breeze-multi-auth-admin"></a>
+<a href="https://github.com/sathish447/laravel-breeze-multi-auth/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sathish447/laravel-breeze-multi-auth"></a>
+<a href="https://github.com/sathish447/laravel-breeze-multi-auth/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/sathish447/laravel-breeze-multi-auth"></a>
+<a href="https://packagist.org/packages/sathish447/laravel-breeze-multi-auth"><img src="https://img.shields.io/packagist/dt/sathish447/laravel-breeze-multi-auth" alt="Total Downloads"></a>
+<a href="https://github.com/sathish447/laravel-breeze-multi-auth/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sathish447/laravel-breeze-multi-auth"></a>
 </p>
 
-## About This Repository
-
-This is a repository created to serve as a basis for those who intend to create a Laravel project using Breeze with multiple guards/auth, where it is possible to create a website and an admin panel with separate authentication for each one.
-
-Unlike many tutorials that teach you how to achieve this goal, this repository is in fact complete and has all the basic functional functions in the admin panel.
-
-### Site(User)
-- Register
-- Login
-- Logout
-- Forgot Password
-- Reset Password
-- Confirm Password
-- Verify Email
-
-### Admin
-- Login with email or username
-- Logout
-- Forgot Password
-- Reset Password
-- Confirm Password
-- Verify Email
 
 ## Installation
 
