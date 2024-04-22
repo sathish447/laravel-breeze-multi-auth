@@ -1,10 +1,7 @@
 <p align="center">
 <a href="https://github.com/sathish447/laravel-breeze-multi-auth/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sathish447/laravel-breeze-multi-auth"></a>
-
 <a href="https://github.com/sathish447/laravel-breeze-multi-auth/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/sathish447/laravel-breeze-multi-auth"></a>
-
 <a href="https://packagist.org/packages/sathish447/laravel-breeze-multi-auth"><img src="https://img.shields.io/packagist/dt/sathish447/laravel-breeze-multi-auth" alt="Total Downloads"></a>
-
 <a href="https://github.com/sathish447/laravel-breeze-multi-auth/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sathish447/laravel-breeze-multi-auth"></a>
 </p>
 
